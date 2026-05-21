@@ -1,0 +1,12 @@
+Record=TopLevelDocument|FileName=01_COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=02_BLOCK DIAGRAM.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=03_INDEX.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=04_STM32F303VCT6.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=05_INPUT.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=06_DIGITAL.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=07_DADC.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=08_INPUTCAPTURE_ENCODER.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=09_CAN.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=10_ADC.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=11_DAC.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=12_LED.SchDoc|SheetNumber=12
